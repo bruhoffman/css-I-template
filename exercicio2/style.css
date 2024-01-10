@@ -5,17 +5,17 @@
 
 .afastado {
   background-color: #77C0ED;
-  margin: 25px;
+  margin: 100px;
 }
 
 .alto {
   background-color: #C3E887;
-  height: 300px;
+  height: 30vh;
 }
 
 .largo {
   background-color: #FFE396;
-  width: 500px;
+  width: 50vw;
 }
 
 .bordado {
